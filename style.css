@@ -1,0 +1,37 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+    background-color: #212121;
+    color: #ffffff;
+}
+
+h1 {
+    color: #00b8d4;
+    margin: 20px 0;
+}
+
+button {
+    font-size: 16px;
+    padding: 10px 20px;
+    margin: 5px;
+    background-color: #00b8d4;
+    border: none;
+    color: #ffffff;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0052cc;
+}
+
+#choice,
+#result,
+#score {
+    margin: 20px 0;
+    font-size: 18px;
+}
+
+#score {
+    font-weight: bold;
+}
